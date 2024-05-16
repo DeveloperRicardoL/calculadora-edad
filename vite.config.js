@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/app-cumple/",
+  base: "/calculadora-edad/",
   build: {
     outDir: "docs",
   },
